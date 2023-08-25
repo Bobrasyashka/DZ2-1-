@@ -1,0 +1,15 @@
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.csproj.AssemblyReference.cache
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.AssemblyInfoInputs.cache
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.AssemblyInfo.cs
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.csproj.CoreCompileInputs.cache
+D:\git seminar\Zadachi\DZ_zadacha2\bin\Debug\net7.0\DZ_zadacha2.exe
+D:\git seminar\Zadachi\DZ_zadacha2\bin\Debug\net7.0\DZ_zadacha2.deps.json
+D:\git seminar\Zadachi\DZ_zadacha2\bin\Debug\net7.0\DZ_zadacha2.runtimeconfig.json
+D:\git seminar\Zadachi\DZ_zadacha2\bin\Debug\net7.0\DZ_zadacha2.dll
+D:\git seminar\Zadachi\DZ_zadacha2\bin\Debug\net7.0\DZ_zadacha2.pdb
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.dll
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\refint\DZ_zadacha2.dll
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.pdb
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\DZ_zadacha2.genruntimeconfig.cache
+D:\git seminar\Zadachi\DZ_zadacha2\obj\Debug\net7.0\ref\DZ_zadacha2.dll
